@@ -4,6 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Backend
+  - Repo: https://github.com/kangqiangyang8243/React_Node_Airbnb_Clone_Backend
+  - Deploy URL: https://react-node-airbnb-clone-backend.onrender.com/
+  
+Features:
+  - User can Login/SignUp with Username&Password
+  - User can see all the posts or Single place
+  - User can create & Delete & Edit the Places
+  - User can Booking and Cancel the Booking
+ 
+
 In the project directory, you can run:
 
 ### `npm start`
