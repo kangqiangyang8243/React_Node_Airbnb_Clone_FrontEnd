@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .ProfileBtns{
+        @apply w-full flex items-center justify-center py-2 px-4 gap-2 border-2 rounded-full whitespace-nowrap hover:shadow-md transform duration-100 ease-linear bg-gray-200 font-semibold font-serif shadow-sm hover:bg-red-500 hover:text-white
+    }
+    .createPlaceInput{
+        @apply w-full rounded-lg p-2 outline-none shadow-md focus:shadow-lg focus:border-2 border-gray-300 transform duration-100 ease-linear
+    }
+}
